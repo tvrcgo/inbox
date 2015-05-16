@@ -1,5 +1,7 @@
-# South Park (南方公园)
+# Paper
 
-别以为这跟广场舞有什么关系，就是记点东西，就是喜欢
+开发相关内容，前端、node.js 为主。
 
-[文章列表](https://github.com/tvrcgo/southpark/issues)
+近期研究 koa，React。
+
+[内容列表](https://github.com/tvrcgo/paper/issues)
