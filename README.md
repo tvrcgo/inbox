@@ -4,4 +4,7 @@
 
 近期研究 koa，React。
 
-[内容列表](https://github.com/tvrcgo/paper/issues)
+[所有内容](https://github.com/tvrcgo/paper/issues)
+
+### Index
+- [JavaScript](https://github.com/tvrcgo/paper/labels/JavaScript)
