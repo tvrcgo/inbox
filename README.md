@@ -2,11 +2,12 @@
 
 技术笔记
 
-## Recent
+### Recent topics
 
-- 前后端一体化工程方案
+- 分布式信息生产、消费模式
+- 前后端一体工程化方案
 - react, mobx, typescript, egg 相关最佳实践
-- 基于 stream 做数据采集框架
+- 数据采集
 
 [More](https://github.com/tvrcgo/notes/issues)
 
