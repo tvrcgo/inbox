@@ -1,13 +1,15 @@
-# Paper
+# Notes
 
-开发积累，前端、Node.js 为主。
+技术笔记
 
-近期研究
+## Recent
+
+- 前后端一体化工程方案
+- react, mobx, typescript, egg 相关最佳实践
 - 基于 stream 做数据采集框架
-- Node.js Startup 项目脚手架，在业务实践中不断总结完善
 
-[所有内容](https://github.com/tvrcgo/paper/issues)
+[More](https://github.com/tvrcgo/notes/issues)
 
 ### Index
-- [JavaScript](https://github.com/tvrcgo/paper/labels/JavaScript)
-- [node.js](https://github.com/tvrcgo/paper/labels/node.js)
+- [JavaScript](https://github.com/tvrcgo/notes/labels/JavaScript)
+- [node.js](https://github.com/tvrcgo/notes/labels/node.js)
