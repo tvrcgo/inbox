@@ -2,7 +2,7 @@
 
 技术笔记
 
-### Recent topics
+### Recent
 
 - 分布式信息生产、消费模式
 - 前后端一体工程化方案
@@ -11,6 +11,6 @@
 
 [More](https://github.com/tvrcgo/notes/issues)
 
-### Index
+### Topic
 - [JavaScript](https://github.com/tvrcgo/notes/labels/JavaScript)
 - [node.js](https://github.com/tvrcgo/notes/labels/node.js)
