@@ -4,9 +4,9 @@
 
 ### Recent
 
-- 分布式信息生产、消费模式
 - 前后端一体工程化方案
-- react, mobx, typescript, egg 相关最佳实践
+- Python 数据处理
+- Docker 服务部署
 - 数据采集
 
 [More](https://github.com/tvrcgo/notes/issues)
