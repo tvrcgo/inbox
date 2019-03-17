@@ -5,8 +5,10 @@
 ### Recent
 
 - 前后端一体工程化方案
-- Python 数据处理
 - Docker 服务部署
+- 小程序
+- Serverless
+- Python 数据处理
 - 数据采集
 
 [More](https://github.com/tvrcgo/notes/issues)
