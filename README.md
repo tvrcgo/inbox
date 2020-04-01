@@ -1,4 +1,4 @@
-## Docs
+# Docs
 
 ### Domain
 
