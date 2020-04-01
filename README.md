@@ -11,7 +11,7 @@
 - Python 数据处理
 - 数据采集
 
-[More](https://github.com/tvrcgo/notes/issues)
+[More](https://github.com/tvrcgo/docs/issues)
 
 ### Topic
 - [JavaScript](https://github.com/tvrcgo/docs/labels/JavaScript)
