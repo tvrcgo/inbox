@@ -14,6 +14,6 @@
 [More](https://github.com/tvrcgo/notes/issues)
 
 ### Topic
-- [JavaScript](https://github.com/tvrcgo/notes/labels/JavaScript)
-- [node.js](https://github.com/tvrcgo/notes/labels/node.js)
-- [React](https://github.com/tvrcgo/notes/labels/React)
+- [JavaScript](https://github.com/tvrcgo/docs/labels/JavaScript)
+- [node.js](https://github.com/tvrcgo/docs/labels/node.js)
+- [React](https://github.com/tvrcgo/docs/labels/React)
