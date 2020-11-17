@@ -1,10 +1,4 @@
-# Docs
+# FAQ
 
-## TOC
-
-- [前端](https://www.yuque.com/tvrcgo/frontend)
-
-## Contact
-
-- [提问](https://github.com/tvrcgo/docs/issues/new)
-- [邮件](mailto:tvrcgo@gmail.com)
+- [马上提问](https://github.com/tvrcgo/faq/issues/new)
+- [发邮件](mailto:tvrcgo@gmail.com)
