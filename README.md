@@ -1,4 +1,4 @@
-# FAQ
+# Inbox
 
-- [待处理](https://github.com/tvrcgo/faq/issues)
-- [已解决](https://github.com/tvrcgo/faq/issues?q=is%3Aissue+is%3Aclosed)
+- [交流](https://github.com/tvrcgo/inbox/discussions)
+- [代码缺陷](https://github.com/tvrcgo/inbox/issues)
